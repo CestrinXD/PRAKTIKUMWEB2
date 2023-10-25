@@ -1,0 +1,45 @@
+section{
+    position: absolute;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    left: 30rem;
+    top: 1rem;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px 1px #3d3d3d;
+
+}
+
+section .top{
+    border-bottom: 2px solid #ffffff;
+}
+
+.isi{
+    padding: 10px 0;
+    margin: 30px 0;
+    color: white;
+}
+.isi div{
+    border: 2px solid #ffffff;
+    padding: 10px 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.isi p{
+    margin-left: 5px;
+    
+}
+body{
+    background-image: linear-gradient(to right, #12486b, #115676, #15637f, #1f7188, #2c7f8f, #368b96, #41969d, #4da2a4, #57afad, #61bcb6, #6cc9be, #78d6c6);
+
+}
+
+.top h3{
+    color: white;
+}
+
+section a{
+    color: black;
+    font-size: 25px;
+}
